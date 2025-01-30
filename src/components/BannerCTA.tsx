@@ -32,7 +32,7 @@ export default function BannerCTA() {
         <div
           className="flex flex-col justify-center items-start py-5 px-7 md:py-20 md:px-20 w-full gap-5 rounded-xl"
           style={{
-            backgroundImage: "url('/bg2.jpeg')",
+            backgroundImage: " url('/bg2.jpeg')",
             backgroundSize: "cover",
             backgroundPosition: "center",
             
@@ -44,17 +44,18 @@ export default function BannerCTA() {
           </h1>
           <p className="text-xs md:text-lg text-white">
             Discover how our advanced battery and energy management systems can
-            lower your costs and provide easy access to reliable, uninterrupted power when you need it most. Our intuitive approach promises: <br/>
-            Sustainable energy that reduces reliance on the grid <br/>
-            Superior battery management for longer-lasting power <br/>
-            Flexible financing options for businesses and homes <br/>
+            lower your costs and provide easy access to reliable, uninterrupted
+            power when you need it most. Our intuitive approach promises: <br />
+            Sustainable energy that reduces reliance on the grid <br />
+            Superior battery management for longer-lasting power <br />
+            Flexible financing options for businesses and homes <br />
           </p>
           <button
-          className=" text-white px-4 py-2 mt-6 w-fit rounded-lg"
-          style={{ backgroundColor: "rgba(143, 197, 66, 1)" }}
-        >
-          See Case Studies
-        </button>
+            className=" text-white px-4 py-2 mt-6 w-fit rounded-lg"
+            style={{ backgroundColor: "rgba(143, 197, 66, 1)" }}
+          >
+            See Case Studies
+          </button>
         </div>
       </div>
     </>
