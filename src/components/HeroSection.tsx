@@ -15,8 +15,8 @@ export default function HeroSection() {
           
         }}
       >
-        <div className="flex flex-col items-left justify-center gap-5 mt-[40%] ">
-          <h1 className="text-3xl md:text-6xl font-bold text-white w-[70%]">
+        <div className="flex flex-col items-left justify-center gap-5 mt-[30%] ">
+          <h1 className="text-3xl md:text-6xl font-bold text-white w-[80%]">
             {" "}
             Power Your Home With Reliable Energy
           </h1>
@@ -41,7 +41,7 @@ export default function HeroSection() {
           backgroundPosition: "center",
         }}
       >
-        <div className="flex flex-col items-left justify-center gap-5 mt-[40%] ">
+        <div className="flex flex-col items-left justify-center gap-5 mt-[30%] ">
           <h1 className="text-3xl md:text-6xl font-bold text-white w-[70%]">
             {" "}
             Empower Your Business with Smart Energy
